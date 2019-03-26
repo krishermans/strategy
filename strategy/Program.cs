@@ -14,6 +14,7 @@ namespace strategy
             mallard.PerformQuack();
             mallard.PerformFly();
             Console.ReadLine();
+            Console.WriteLine("Hallo daar");
         }
     }
 }
